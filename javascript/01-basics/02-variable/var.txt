@@ -1,0 +1,17 @@
+Var => This is a conatainer of Values
+
+Refrence => https://www.w3schools.com/, https://developer.mozilla.org/en-US/, AI => Chat-GPT, OR Gemmini
+
+1. Advantage (pros) 
+=> Access from everwhere 
+=> Re-Assign or Update the Value 
+=> Re-declare or re use of variable name 
+
+2. Dis-advantage (Cons) 
+=> Make Many Errors 
+=> Easly Change value, so this resion we found many type Errors
+=> No block scope
+=> Can be redeclared
+=> Causes bugs
+
+// used from starting of this js language

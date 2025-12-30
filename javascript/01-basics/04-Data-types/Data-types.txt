@@ -1,0 +1,18 @@
+* Data types => it's define the which type of value, like => number, string, boolean
+
+* Types => 
+    1. Primitive 
+        1. number
+        2. boolean
+        3. Undefined 
+        4. string
+        5. Symbol
+        6. Null
+        7. NaN
+        8. BigInt
+
+    2. Non - Primitive 
+        1. Array
+        2. Function
+        3. Object
+
